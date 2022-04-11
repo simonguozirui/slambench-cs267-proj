@@ -21,8 +21,8 @@ framework/makefiles/datasets.makefile
 *.pyc
 
 # Dependencies 
-/deps
-!deps/g2o/*
+deps/*
+!deps/cs_267
 /android-deps/
 
 
