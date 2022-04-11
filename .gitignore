@@ -22,7 +22,7 @@ framework/makefiles/datasets.makefile
 
 # Dependencies 
 /deps
-!/deps/g2o/README
+!deps/g2o/*
 /android-deps/
 
 
